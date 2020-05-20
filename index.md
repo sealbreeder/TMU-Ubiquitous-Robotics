@@ -3,7 +3,7 @@
 
 ユビキタスロボティクス特論に関連する公開資料です。
 
-受講生で講義に関する質問がある方は、GithubリポジトリのIssuesに投稿して下さい。
+受講生で講義に関する質問がある方は、[Githubリポジトリ](https://github.com/sealbreeder/TMU-Ubiquitous-Robotics)の[Issues](https://github.com/sealbreeder/TMU-Ubiquitous-Robotics/issues)に投稿して下さい。
 
 
 **目次**
