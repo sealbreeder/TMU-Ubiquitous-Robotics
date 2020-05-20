@@ -24,7 +24,7 @@
   - Visual C++がインストールされているかは必ず確認してください。
 - [Python 3.7](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe)
 - [CMake](https://github.com/Kitware/CMake/releases/download/v3.16.4/cmake-3.16.4-win64-x64.msi)
-- [Doxygen](http://doxygen.nl/files/doxygen-1.8.16-setup.exe)
+- [Doxygen](http://doxygen.nl/files/doxygen-1.8.18-setup.exe)
 - [OpenRTM-aist-1.2.1-RELEASE](https://github.com/OpenRTM/OpenRTM-aist/releases/download/v1.2.1/OpenRTM-aist-1.2.1-RELEASE_x86_64.msi)
 
 また、インストールが完了したら、以下のチュートリアルに従って、自分のPCでOpenRTMが動作するか確認してください。
