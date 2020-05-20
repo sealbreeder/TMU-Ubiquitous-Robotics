@@ -12,6 +12,9 @@
 
 ## 第2回 (5月20日）
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f0voUfSYHBnWPW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NoriakiAndo/200520" title="200520 ユビキタスロボティクス特論" target="_blank">200520 ユビキタスロボティクス特論</a> </strong> from <strong><a href="https://www.slideshare.net/NoriakiAndo" target="_blank">NoriakiAndo</a></strong> </div>
+
+
 ## 第3回 (5月27日）
 
 
